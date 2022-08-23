@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const PORT = 5000;
+const PORT = 4000;
 const auth = require('./routes/auth');
 const post = require('./routes/post');
 
